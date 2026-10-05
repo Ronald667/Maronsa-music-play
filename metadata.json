@@ -1,0 +1,8 @@
+{
+  "name": "Maron Music Play",
+  "description": "Online and offline music streaming and downloading web app with AI recommendations and local library",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
